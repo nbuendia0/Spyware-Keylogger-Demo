@@ -158,11 +158,13 @@ A folder automatically generated during runtime that stores all collected demons
 
 ### `system_info.xlsx`
 ```
-Metric        Value
-Timestamp     2024-01-15 10:30:00
-IP Address    192.168.1.100
-Hostname      DESKTOP-ABC123
-OS            Windows
+| Metric      | Value                |
+|-------------|----------------------|
+| Timestamp   | 2024-01-15 10:30:00  |
+| IP Address  | 192.168.1.100        |
+| Hostname    | DESKTOP-ABC123       |
+| OS          | Windows              |
+| Processor   | Intel(R) Core(TM)…   |
 ```
 
 ### `screenshot.png`
