@@ -1,0 +1,1 @@
+[Key.shift] H e l l o [Key.space] W o r l d [Key.enter]
